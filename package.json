@@ -1,7 +1,11 @@
 {
   "name": "agent-flight-recorder",
   "version": "1.0.0",
-  "description": "Black-box recorder for AI agent runs — what happened, what was claimed, what was actually proven.",
+  "description": "Black-box flight recorder for AI agent runs — timeline, evidence, and suspicious completion claims.",
+  "author": "Mehmet Turac (https://github.com/mturac)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/mturac/agent-flight-recorder.git" },
+  "homepage": "https://github.com/mturac/agent-flight-recorder#readme",
   "type": "module",
   "scripts": {
     "dev": "next dev -p 3103",

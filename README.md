@@ -1,6 +1,8 @@
 # agent-flight-recorder
 
-> Black-box recorder for AI agent runs — what happened, what was claimed, what was actually proven.
+> Black-box flight recorder for AI agent runs — timeline, evidence, and suspicious completion claims.
+
+**Topics:** `ai-agents` · `agentic-ai` · `observability` · `qa` · `evidence` · `devtools` · `llm`
 
 ![Screenshot](docs/screenshot.png)
 
@@ -29,4 +31,8 @@ Verdict: incomplete claim
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
+
+## Author
+
+**Mehmet Turac** — [github.com/mturac](https://github.com/mturac)
