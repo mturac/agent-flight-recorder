@@ -1,7 +1,7 @@
 {
   "name": "agent-flight-recorder",
   "version": "1.0.0",
-  "description": "agent-flight-recorder",
+  "description": "Black-box recorder for AI agent runs — what happened, what was claimed, what was actually proven.",
   "type": "module",
   "scripts": {
     "dev": "next dev -p 3103",
